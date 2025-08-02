@@ -98,42 +98,7 @@ print(moi.get_projets_actifs())
 
 </td>
 </tr>
-<tr>
-<td width="50%" align="center">
 
-### 🔄 [TERMINATE RESTART](https://github.com/AveryMist/TERMINATE-RESTART)
-<img src="https://img.shields.io/badge/Status-🚀_ACTIF-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Type-📦_Package_Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-
-*Plugin Flutter pour redémarrage avancé*
-
-🔄 **Fonctionnalités :**
-- 🔄 **Redémarrage UI** et processus complet
-- 🛡️ **Gestion sécurisée** des données
-- 📱 **Conformité App Store** iOS
-- ⚡ **Performance optimisée**
-
-[![Pub.dev](https://img.shields.io/badge/pub.dev-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/AveryMist/TERMINATE-RESTART)
-
-</td>
-<td width="50%" align="center">
-
-### 📺 [YOUTUBE EXPLODE DART](https://github.com/AveryMist/YOUTUBE-EXPLODE-DART)
-<img src="https://img.shields.io/badge/Status-🚀_ACTIF-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Type-📦_Package_Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-
-*Package Dart pour extraction YouTube*
-
-📺 **Fonctionnalités :**
-- 🎵 **Extraction audio/vidéo** YouTube
-- 📊 **Métadonnées complètes**
-- 🔗 **API simple** et intuitive
-- ⚡ **Performance élevée**
-
-[![Pub.dev](https://img.shields.io/badge/pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/AveryMist/YOUTUBE-EXPLODE-DART)
-
-</td>
-</tr>
 </table>
 
 [![Discord Community](https://img.shields.io/badge/💬_Rejoins_la_Communauté-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GEZCQwczMY)
