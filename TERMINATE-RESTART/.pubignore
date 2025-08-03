@@ -1,0 +1,36 @@
+# Development
+.dart_tool/
+.packages
+.pub/
+build/
+example/build/
+coverage/
+doc/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Flutter/Dart specific
+*.log
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+
+# Build artifacts
+*.g.dart
+*.freezed.dart
+*.mocks.dart
+
+# Specific files to exclude
+example/android/app/.cxx/Debug/6x5w661t/arm64-v8a/.cmake/api/v1/reply/index-2025-04-07T15-32-34-0083.json
+example/android/app/.cxx/Debug/6x5w661t/armeabi-v7a/.cmake/api/v1/reply/index-2025-04-07T15-32-53-0931.json
+example/android/app/.cxx/Debug/6x5w661t/x86/.cmake/api/v1/reply/index-2025-04-07T15-32-54-0343.json
+example/android/app/.cxx/Debug/6x5w661t/x86_64/.cmake/api/v1/reply/index-2025-04-07T15-32-54-0704.json
+
+# General patterns
+example/android/app/.cxx/**/*.json
+
+# We want to include the example pubspec.lock
+!example/pubspec.lock
