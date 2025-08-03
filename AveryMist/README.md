@@ -20,7 +20,7 @@ class AveryMyst:
         self.bio = "Dev belge qui kiffe créer des apps et des expériences digitales"
         self.quand_je_code_pas = "Je dessine des niveaux de jeux ou teste de nouvelles technos"
         self.truc_actuel = "Les apps cross-platform - j'aime bien quand ça marche partout !"
-        self.projets_actifs = []
+        self.projets_actifs = ["AMADEUSE-YTM"]
         self.projets_abandonnes = ["AMADEUSE-MUSIC", "AMADEUSE-READ"]
         self.passion = "Transformer des idées en code qui marche"
         self.addiction = "Café ☕ (beaucoup trop)"
@@ -33,7 +33,7 @@ class AveryMyst:
         return "En train de coder avec du café ☕💻"
 
     def get_projets_actifs(self):
-        return "Actuellement en recherche de nouveaux projets à développer"
+        return "Actuellement en développement: AMADEUSE YTM - Client YouTube Music Desktop"
 
     def __str__(self):
         return f"{self.nom} - {self.bio}"
@@ -58,7 +58,22 @@ print(moi.get_projets_actifs())
 
 <table>
 <tr>
+<td width="33%" align="center">
 
+### 🎵 [AMADEUSE YTM](https://github.com/AveryMist/AMADEUSE-YTM)
+<img src="https://img.shields.io/badge/Status-✅_ACTIF-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Platform-🖥️_Desktop_Multi--OS-6366F1?style=for-the-badge&logo=electron&logoColor=white" />
+
+*Client YouTube Music Desktop avec icônes personnalisées*
+
+✨ **Fonctionnalités :**
+- 🎵 **YouTube Music** en application desktop
+- 🎨 **Icônes AMADEUSE** personnalisées
+- 🔌 **Plugins** avancés inclus
+- 🌍 **Multi-plateforme** (Windows/Mac/Linux)
+- 🚫 **Bloqueur de pub** intégré
+
+[![Télécharger](https://img.shields.io/badge/Télécharger-6366F1?style=for-the-badge&logo=download&logoColor=white)](https://github.com/AveryMist/AMADEUSE-YTM/releases)
 
 </td>
 <td width="33%" align="center">
