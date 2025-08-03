@@ -1,407 +1,367 @@
 <div align="center">
 
-# YouTube Music
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B6B&height=120&section=header&text=AMADEUSE%20YTM&fontSize=50&fontColor=ffffff&animation=twinkling"/>
 
-[![GitHub release](https://img.shields.io/github/release/th-ch/youtube-music.svg?style=for-the-badge&logo=youtube-music)](https://github.com/th-ch/youtube-music/releases/)
-[![GitHub license](https://img.shields.io/github/license/th-ch/youtube-music.svg?style=for-the-badge)](https://github.com/th-ch/youtube-music/blob/master/license)
-[![eslint code style](https://img.shields.io/badge/code_style-eslint-5ed9c7.svg?style=for-the-badge)](https://github.com/th-ch/youtube-music/blob/master/eslint.config.mjs)
-[![Build status](https://img.shields.io/github/actions/workflow/status/th-ch/youtube-music/build.yml?branch=master&style=for-the-badge&logo=youtube-music)](https://GitHub.com/th-ch/youtube-music/releases/)
-[![GitHub All Releases](https://img.shields.io/github/downloads/th-ch/youtube-music/total?style=for-the-badge&logo=youtube-music)](https://GitHub.com/th-ch/youtube-music/releases/)
-[![AUR](https://img.shields.io/aur/version/youtube-music-bin?color=blueviolet&style=for-the-badge&logo=youtube-music)](https://aur.archlinux.org/packages/youtube-music-bin)
-[![Known Vulnerabilities](https://snyk.io/test/github/th-ch/youtube-music/badge.svg)](https://snyk.io/test/github/th-ch/youtube-music)
+# 🎵 Yo ! Moi c'est AMADEUSE YTM
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=🇫🇷+Client+YouTube+Music+Desktop;🇬🇧+YouTube+Music+Desktop+Client;🇫🇷+Basé+sur+th-ch%2Fyoutube-music;🇬🇧+Based+on+th-ch%2Fyoutube-music;🇫🇷+Avec+icônes+personnalisées+AMADEUSE;🇬🇧+With+custom+AMADEUSE+icons" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 🚀 **Statut du projet / Project Status**
+
+---
+
+## 🇫🇷 **Version Française**
+
+### 📋 **Statut du projet**
 
 </div>
 
-![Screenshot](web/screenshot.png "Screenshot")
+```python
+class AmadeuseYTM:
+    def __init__(self):
+        self.nom = "AMADEUSE YTM"
+        self.statut = "✅ ACTIF"
+        self.bio = "Client YouTube Music Desktop avec icônes personnalisées"
+        self.base_sur = "th-ch/youtube-music - Client Electron pour YouTube Music"
+        self.personnalisation = "Icônes AMADEUSE custom intégrées"
+        self.plateforme = "Windows, macOS, Linux"
+        self.fonctionnalites = "Tous les plugins du projet original + style AMADEUSE"
+        self.inspiration = "Basé sur https://github.com/th-ch/youtube-music"
+        self.pour_qui = "Utilisateurs voulant YouTube Music en app desktop"
+        self.avantages = "Interface native, plugins, pas de navigateur"
+        self.motto = "YouTube Music, mais en mieux et avec du style !"
 
+    def dire_bonjour(self):
+        return f"Salut ! Je suis {self.nom} - {self.statut} 🎵"
+
+    def get_status(self):
+        return "Client desktop YouTube Music avec icônes AMADEUSE 🎵✨"
+
+    def get_inspiration(self):
+        return f"Projet basé sur: {self.inspiration}"
+
+    def __str__(self):
+        return f"{self.nom} - {self.bio}"
+
+# Instanciation
+moi = AmadeuseYTM()
+print(moi.dire_bonjour())
+print(moi.get_inspiration())
+```
 
 <div align="center">
-	<a href="https://github.com/th-ch/youtube-music/releases/latest">
-		<img src="web/youtube-music.svg" width="400" height="100" alt="YouTube Music SVG">
-	</a>
+
+---
+
+## 🇬🇧 **English Version**
+
+### 📋 **Project Status**
+
+```python
+class AmadeuseYTM:
+    def __init__(self):
+        self.name = "AMADEUSE YTM"
+        self.status = "✅ ACTIVE"
+        self.description = "YouTube Music Desktop Client with custom AMADEUSE icons"
+        self.based_on = "th-ch/youtube-music - Electron wrapper for YouTube Music"
+        self.customization = "Custom AMADEUSE icons integrated"
+        self.platform = "Windows, macOS, Linux"
+        self.features = "All original project plugins + AMADEUSE styling"
+        self.inspiration = "Based on https://github.com/th-ch/youtube-music"
+        self.target_users = "Users wanting YouTube Music as desktop app"
+        self.advantages = "Native interface, plugins, no browser needed"
+        self.motto = "YouTube Music, but better and with style!"
+
+    def get_status(self):
+        return f"{self.status} - {self.description}"
+
+    def get_inspiration(self):
+        return f"Project based on: {self.inspiration}"
+
+# Instantiation
+project = AmadeuseYTM()
+print(project.get_status())
+print(project.get_inspiration())
+```
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </div>
 
-Read this in other languages: [한국어](./docs/readme/README-ko.md), [Française](./docs/readme/README-fr.md), [Íslenska](./docs/readme/README-is.md), [Español](./docs/readme/README-es.md), [Pусский](./docs/readme/README-ru.md), [Українська](./docs/readme/README-uk.md), [Magyar](./docs/readme/README-hu.md), [Português](./docs/readme/README-pt.md), [日本語](./docs/readme/README-ja.md)
+## ✅ **Statut du projet**
 
-**Electron wrapper around YouTube Music featuring:**
+<div align="center">
 
-- Native look & feel, aims at keeping the original interface
-- Framework for custom plugins: change YouTube Music to your needs (style, content, features), enable/disable plugins in
-  one click
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Demo Image
+<table>
+<tr>
 
-|                          Player Screen (album color theme & ambient light)                                |
-|:---------------------------------------------------------------------------------------------------------:|
-|![Screenshot1](https://github.com/th-ch/youtube-music/assets/16558115/53efdf73-b8fa-4d7b-a235-b96b91ea77fc)|
+</td>
+<td width="33%" align="center">
 
-## Content
+### ✅ [PROJET ACTIF](https://github.com/AveryMist/AMADEUSE-YTM)
+<img src="https://img.shields.io/badge/Status-✅_ACTIF-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Platform-🖥️_Desktop_Multi--OS-4CAF50?style=for-the-badge&logo=electron&logoColor=white" />
 
-- [Features](#features)
-- [Available plugins](#available-plugins)
-- [Translation](#translation)
-- [Download](#download)
-  - [Arch Linux](#arch-linux)
-  - [MacOS](#macos)
-  - [Windows](#windows)
-    - [How to install without a network connection? (in Windows)](#how-to-install-without-a-network-connection-in-windows)
-- [Themes](#themes)
-- [Dev](#dev)
-- [Build your own plugins](#build-your-own-plugins)
-  - [Creating a plugin](#creating-a-plugin)
-  - [Common use cases](#common-use-cases)
-- [Build](#build)
-- [Production Preview](#production-preview)
-- [Tests](#tests)
-- [License](#license)
-- [FAQ](#faq)
+*Client YouTube Music Desktop personnalisé*
 
-## Features:
+✨ **Fonctionnalités :**
+- 🎵 **YouTube Music** en application desktop
+- 🎨 **Icônes AMADEUSE** personnalisées
+- 🔌 **Plugins** avancés inclus
+- 🌍 **Multi-plateforme** (Windows/Mac/Linux)
+- 🚫 **Bloqueur de pub** intégré
 
-- **Auto confirm when paused** (Always Enabled): disable
-  the ["Continue Watching?"](https://user-images.githubusercontent.com/61631665/129977894-01c60740-7ec6-4bf0-9a2c-25da24491b0e.png)
-  popup that pause music after a certain time
+[![Télécharger](https://img.shields.io/badge/Télécharger-4CAF50?style=for-the-badge&logo=download&logoColor=white)](https://github.com/AveryMist/AMADEUSE-YTM/releases)
 
- - And more ...
+</td>
+<td width="33%" align="center">
 
-## Available plugins:
+### 🛠️ [BASÉ SUR TH-CH](https://github.com/th-ch/youtube-music)
+<img src="https://img.shields.io/badge/Status-🔗_FORK-info?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tech-⚡_Electron-9C27B0?style=for-the-badge&logo=electron&logoColor=white" />
 
-- **Ad Blocker**: Block all ads and tracking out of the box
+*Version personnalisée du projet original*
 
-- **Album Actions**: Adds Undislike, Dislike, Like, and Unlike buttons to apply this to all songs in a playlist or album
+🔧 **Améliorations AMADEUSE :**
+- 🎨 **Icônes custom** intégrées
+- ✨ **Style AMADEUSE** appliqué
+- 📦 **Build personnalisé** avec nos assets
+- 🔄 **Mises à jour** du projet original
+- 🎵 **Même fonctionnalités** + notre touch
 
-- **Album Color Theme**: Applies a dynamic theme and visual effects based on the album color palette
+[![Code Source](https://img.shields.io/badge/Code_Source-9C27B0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AveryMist/AMADEUSE-YTM)
 
-- **Ambient Mode**: Applies a lighting effect by casting gentle colors from the video, into your screen’s background
+</td>
+</tr>
+</table>
 
-- **Audio Compressor**: Apply compression to audio (lowers the volume of the loudest parts of the signal and raises the
-  volume of the softest parts)
+[![Discord Community](https://img.shields.io/badge/💬_Rejoins_la_Communauté-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GEZCQwczMY)
 
-- **Blur Navigation Bar**: makes navigation bar transparent and blurry
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- **Bypass Age Restrictions**: bypass YouTube's age verification
+</div>
 
-- **Captions Selector**: Enable captions
+## 🛠️ **Technologies utilisées**
 
-- **Compact Sidebar**: Always set the sidebar in compact mode
+<details>
+<summary><b>🖥️ Technologies principales</b></summary>
+<br>
 
-- **Crossfade**: Crossfade between songs
+![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-- **Disable Autoplay**: Makes every song start in "paused" mode
+</details>
 
-- **[Discord](https://discord.com/) Rich Presence**: Show your friends what you listen to
-  with [Rich Presence](https://user-images.githubusercontent.com/28219076/104362104-a7a0b980-5513-11eb-9744-bb89eabe0016.png)
+<details>
+<summary><b>🎵 Fonctionnalités Audio</b></summary>
+<br>
 
-- **Downloader**: downloads
-  MP3 [directly from the interface](https://user-images.githubusercontent.com/61631665/129977677-83a7d067-c192-45e1-98ae-b5a4927393be.png) [(youtube-dl)](https://github.com/ytdl-org/youtube-dl)
+![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
+![Audio Processing](https://img.shields.io/badge/Audio_Processing-9C27B0?style=for-the-badge&logo=waveform&logoColor=white)
+![Equalizer](https://img.shields.io/badge/Equalizer-E91E63?style=for-the-badge&logo=audio-technica&logoColor=white)
+![Discord RPC](https://img.shields.io/badge/Discord_RPC-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
-- **Equalizer**: add filters to boost or cut specific range of frequencies (e.g. bass booster)
+</details>
 
-- **Exponential Volume**: Makes the volume
-  slider [exponential](https://greasyfork.org/en/scripts/397686-youtube-music-fix-volume-ratio/) so it's easier to
-  select lower volumes
+<details>
+<summary><b>🔌 Plugins disponibles</b></summary>
+<br>
 
-- **In-App Menu**: [gives bars a fancy, dark look](https://user-images.githubusercontent.com/78568641/112215894-923dbf00-8c29-11eb-95c3-3ce15db27eca.png)
+![Ad Blocker](https://img.shields.io/badge/Ad_Blocker-FF5722?style=for-the-badge&logo=shield&logoColor=white)
+![Lyrics](https://img.shields.io/badge/Lyrics_Support-4CAF50?style=for-the-badge&logo=music&logoColor=white)
+![Scrobbler](https://img.shields.io/badge/Last.fm_Scrobbler-D51007?style=for-the-badge&logo=last.fm&logoColor=white)
+![Downloader](https://img.shields.io/badge/MP3_Downloader-2196F3?style=for-the-badge&logo=download&logoColor=white)
 
-  > (see [this post](https://github.com/th-ch/youtube-music/issues/410#issuecomment-952060709) if you have problem
-  accessing the menu after enabling this plugin and hide-menu option)
+</details>
 
-- **Scrobbler**: Adds scrobbling support for [Last.fm](https://www.last.fm/) and [ListenBrainz](https://listenbrainz.org/)
+<details>
+<summary><b>🎨 Interface & Design</b></summary>
+<br>
 
-- **Lumia Stream**: Adds [Lumia Stream](https://lumiastream.com/) support
+![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
+![Custom Icons](https://img.shields.io/badge/AMADEUSE_Icons-FF6B6B?style=for-the-badge&logo=image&logoColor=white)
+![Themes](https://img.shields.io/badge/Custom_Themes-6200EA?style=for-the-badge&logo=palette&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- **Lyrics Genius**: Adds lyrics support for most songs
+</details>
 
-- **Music Together**: Share a playlist with others. When the host plays a song, everyone else will hear the same song
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- **Navigation**: Next/Back navigation arrows directly integrated in the interface, like in your favorite browser
+## 📊 **Stats du projet**
 
-- **No Google Login**: Remove Google login buttons and links from the interface
+<div align="center">
 
-- **Notifications**: Display a notification when a song starts
-  playing ([interactive notifications](https://user-images.githubusercontent.com/78568641/114102651-63ce0e00-98d0-11eb-9dfe-c5a02bb54f9c.png)
-  are available on windows)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- **Picture-in-picture**: allows to switch the app to picture-in-picture mode
+<table>
+<tr>
+<td width="50%">
 
-- **Playback Speed**: Listen fast, listen
-  slow! [Adds a slider that controls song speed](https://user-images.githubusercontent.com/61631665/129976003-e55db5ba-bf42-448c-a059-26a009775e68.png)
+<img src="https://github-readme-stats.vercel.app/api?username=AveryMist&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&custom_title=AMADEUSE%20YTM%20Stats" />
 
-- **Precise Volume**: Control the volume precisely using mousewheel/hotkeys, with a custom hud and customizable volume
-  steps
+</td>
+<td width="50%">
 
-- **Shortcuts (& MPRIS)**: Allows setting global hotkeys for playback (play/pause/next/previous) +
-  disable [media osd](https://user-images.githubusercontent.com/84923831/128601225-afa38c1f-dea8-4209-9f72-0f84c1dd8b54.png)
-  by overriding media keys + enable Ctrl/CMD + F to search + enable linux mpris support for
-  mediakeys + [custom hotkeys](https://github.com/Araxeus/youtube-music/blob/1e591d6a3df98449bcda6e63baab249b28026148/providers/song-controls.js#L13-L50)
-  for [advanced users](https://github.com/th-ch/youtube-music/issues/106#issuecomment-952156902)
+<img src="https://nirzak-streak-stats.vercel.app/?user=AveryMist&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" />
 
-- **Skip Disliked Song**: Skips disliked songs
+</td>
+</tr>
+</table>
 
-- **Skip Silences**: Automatically skip silenced sections
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AveryMist&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&custom_title=Technologies%20Utilisées" />
 
-- [**SponsorBlock**](https://github.com/ajayyy/SponsorBlock): Automatically Skips non-music parts like intro/outro or
-  parts of music videos where the song isn't playing
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AveryMist&theme=tokyo-night&bg_color=0D1117&color=6366F1&line=6366F1&point=FF6B6B&area=true&hide_border=true" />
 
-- **Synced Lyrics**: Provides synced lyrics to songs, using providers like [LRClib](https://lrclib.net).
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- **Taskbar Media Control**: Control playback from
-  your [Windows taskbar](https://user-images.githubusercontent.com/78568641/111916130-24a35e80-8a82-11eb-80c8-5021c1aa27f4.png)
+</div>
 
-- **TouchBar**: Custom TouchBar layout for macOS
+---
 
-- **Tuna OBS**: Integration with [OBS](https://obsproject.com/)'s
-  plugin [Tuna](https://obsproject.com/forum/resources/tuna.843/)
+## 🏆 **Achievements**
 
-- **Unobtrusive Player**: Prevents the player from popping up when playing a song
+<div align="center">
 
-- **Video Quality Changer**: Allows changing the video quality with
-  a [button](https://user-images.githubusercontent.com/78568641/138574366-70324a5e-2d64-4f6a-acdd-dc2a2b9cecc5.png) on
-  the video overlay
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- **Video Toggle**: Adds
-  a [button](https://user-images.githubusercontent.com/28893833/173663950-63e6610e-a532-49b7-9afa-54cb57ddfc15.png) to
-  switch between Video/Song mode. can also optionally remove the whole video tab
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AveryMist&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest)
 
-- **Visualizer**: Different music visualizers
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+</div>
 
-## Translation
+## 🎮 **Ce que ça fait de mieux**
 
-You can help with translation on [Hosted Weblate](https://hosted.weblate.org/projects/youtube-music/).
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-<a href="https://hosted.weblate.org/engage/youtube-music/">
-  <img src="https://hosted.weblate.org/widget/youtube-music/i18n/multi-auto.svg" alt="translation status" />
-  <img src="https://hosted.weblate.org/widget/youtube-music/i18n/287x66-black.png" alt="translation status 2" />
-</a>
+### 🎵 **Streaming YouTube Music**
+- Interface **native** desktop
+- **Tous les plugins** du projet original
+- Bloqueur de **publicités** intégré
+- Support **multi-plateforme**
 
-## Download
+</td>
+<td align="center" width="33%">
 
-You can check out the [latest release](https://github.com/th-ch/youtube-music/releases/latest) to quickly find the
-latest version.
+### 🎨 **Style AMADEUSE**
+- Icônes **personnalisées** AMADEUSE
+- Thème **cohérent** avec nos projets
+- Interface **moderne** et clean
+- Expérience **unifiée**
 
-### Arch Linux
+</td>
+<td align="center" width="33%">
 
-Install the [`youtube-music-bin`](https://aur.archlinux.org/packages/youtube-music-bin) package from the AUR. For AUR installation instructions, take a look at
-this [wiki page](https://wiki.archlinux.org/index.php/Arch_User_Repository#Installing_packages).
+### 🔌 **Plugins Avancés**
+- **Discord Rich Presence**
+- **Égaliseur** audio avancé
+- **Téléchargeur** MP3 intégré
+- **Paroles** synchronisées
 
-### macOS
+</td>
+</tr>
+</table>
 
-You can install the app using Homebrew (see the [cask definition](https://github.com/th-ch/homebrew-youtube-music)):
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-```bash
-brew install th-ch/youtube-music/youtube-music
-```
+## 💭 **Citation du Jour**
 
-If you install the app manually and get an error "is damaged and can’t be opened." when launching the app, run the following in the Terminal:
+<div align="center">
 
-```bash
-/usr/bin/xattr -cr /Applications/YouTube\ Music.app
-```
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### Windows
+</div>
 
-You can use the [Scoop package manager](https://scoop.sh) to install the `youtube-music` package from
-the [`extras` bucket](https://github.com/ScoopInstaller/Extras).
+## 🤝 **On peut se parler !**
 
-```bash
-scoop bucket add extras
-scoop install extras/youtube-music
-```
+<div align="center">
 
-Alternately you can use [Winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/), Windows 11s
-official CLI package manager to install the `th-ch.YouTubeMusic` package.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-*Note: Microsoft Defender SmartScreen might block the installation since it is from an "unknown publisher". This is also
-true for the manual installation when trying to run the executable(.exe) after a manual download here on github (same
-file).*
+<table>
+<tr>
+<td align="center">
 
-```bash
-winget install th-ch.YouTubeMusic
-```
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.gg/GEZCQwczMY)
 
-#### How to install without a network connection? (in Windows)
+**Communauté AMADEUSE**
 
-- Download the `*.nsis.7z` file for _your device architecture_ in [release page](https://github.com/th-ch/youtube-music/releases/latest).
-  - `x64` for 64-bit Windows
-  - `ia32` for 32-bit Windows
-  - `arm64` for ARM64 Windows
-- Download installer in release page. (`*-Setup.exe`)
-- Place them in the **same directory**.
-- Run the installer.
+</td>
+<td align="center">
 
-## Themes
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white&labelColor=121011)](https://github.com/AveryMist/AMADEUSE-YTM)
 
-You can load CSS files to change the look of the application (Options > Visual Tweaks > Themes).
+**Code source & releases**
 
-Some predefined themes are available in https://github.com/kerichdev/themes-for-ytmdesktop-player.
+</td>
+<td align="center">
 
-## Dev
+[![Download](https://img.shields.io/badge/Télécharger-4CAF50?style=for-the-badge&logo=download&logoColor=white&labelColor=4CAF50)](https://github.com/AveryMist/AMADEUSE-YTM/releases)
 
-```bash
-git clone https://github.com/th-ch/youtube-music
-cd youtube-music
-pnpm install --frozen-lockfile
-pnpm dev
-```
+**App Desktop**
 
-## Build your own plugins
+</td>
+</tr>
+</table>
 
-Using plugins, you can:
+### 💬 **Toujours partant pour :**
 
-- manipulate the app - the `BrowserWindow` from electron is passed to the plugin handler
-- change the front by manipulating the HTML/CSS
+<table>
+<tr>
+<td width="25%" align="center">
 
-### Creating a plugin
+🎵 **Écouter**
+de la musique ensemble
 
-Create a folder in `src/plugins/YOUR-PLUGIN-NAME`:
-
-- `index.ts`: the main file of the plugin
-```typescript
-import style from './style.css?inline'; // import style as inline
-
-import { createPlugin } from '@/utils';
-
-export default createPlugin({
-  name: 'Plugin Label',
-  restartNeeded: true, // if value is true, ytmusic show restart dialog
-  config: {
-    enabled: false,
-  }, // your custom config
-  stylesheets: [style], // your custom style,
-  menu: async ({ getConfig, setConfig }) => {
-    // All *Config methods are wrapped Promise<T>
-    const config = await getConfig();
-    return [
-      {
-        label: 'menu',
-        submenu: [1, 2, 3].map((value) => ({
-          label: `value ${value}`,
-          type: 'radio',
-          checked: config.value === value,
-          click() {
-            setConfig({ value });
-          },
-        })),
-      },
-    ];
-  },
-  backend: {
-    start({ window, ipc }) {
-      window.maximize();
+</td>
+<td width="25%" align="center">
 
-      // you can communicate with renderer plugin
-      ipc.handle('some-event', () => {
-        return 'hello';
-      });
-    },
-    // it fired when config changed
-    onConfigChange(newConfig) { /* ... */ },
-    // it fired when plugin disabled
-    stop(context) { /* ... */ },
-  },
-  renderer: {
-    async start(context) {
-      console.log(await context.ipc.invoke('some-event'));
-    },
-    // Only renderer available hook
-    onPlayerApiReady(api: YoutubePlayer, context: RendererContext) {
-      // set plugin config easily
-      context.setConfig({ myConfig: api.getVolume() });
-    },
-    onConfigChange(newConfig) { /* ... */ },
-    stop(_context) { /* ... */ },
-  },
-  preload: {
-    async start({ getConfig }) {
-      const config = await getConfig();
-    },
-    onConfigChange(newConfig) {},
-    stop(_context) {},
-  },
-});
-```
+💡 **Discuter**
+de nouvelles fonctionnalités
 
-### Common use cases
+</td>
+<td width="25%" align="center">
 
-- injecting custom CSS: create a `style.css` file in the same folder then:
+🎮 **Partager**
+tes playlists préférées
 
-```typescript
-// index.ts
-import style from './style.css?inline'; // import style as inline
+</td>
+<td width="25%" align="center">
 
-import { createPlugin } from '@/utils';
+📱 **Améliorer**
+l'expérience musicale
 
-export default createPlugin({
-  name: 'Plugin Label',
-  restartNeeded: true, // if value is true, ytmusic will show a restart dialog
-  config: {
-    enabled: false,
-  }, // your custom config
-  stylesheets: [style], // your custom style
-  renderer() {} // define renderer hook
-});
-```
+</td>
+</tr>
+</table>
 
-- If you want to change the HTML:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-```typescript
-import { createPlugin } from '@/utils';
+</div>
 
-export default createPlugin({
-  name: 'Plugin Label',
-  restartNeeded: true, // if value is true, ytmusic will show the restart dialog
-  config: {
-    enabled: false,
-  }, // your custom config
-  renderer() {
-    // Remove the login button
-    document.querySelector(".sign-in-link.ytmusic-nav-bar").remove();
-  } // define renderer hook
-});
-```
+<div align="center">
 
-- communicating between the front and back: can be done using the ipcMain module from electron. See `index.ts` file and
-  example in `sponsorblock` plugin.
+### ✨ **"YouTube Music en desktop, mais avec du style AMADEUSE !"** ✨
 
-## Build
+![GitHub](https://img.shields.io/badge/Made_with-❤️_by_AveryMyst-FF6B6B?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=AveryMist&color=FF6B6B&style=for-the-badge&label=Profile+Views)
 
-1. Clone the repo
-2. Follow [this guide](https://pnpm.io/installation) to install `pnpm`
-3. Run `pnpm install --frozen-lockfile` to install dependencies
-4. Run `pnpm build:OS`
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- `pnpm dist:win` - Windows
-- `pnpm dist:linux` - Linux (amd64)
-- `pnpm dist:linux:deb-arm64` - Linux (arm64 for Debian)
-- `pnpm dist:linux:rpm-arm64` - Linux (arm64 for Fedora)
-- `pnpm dist:mac` - macOS (amd64)
-- `pnpm dist:mac:arm64` - macOS (arm64)
+*Basé sur le projet th-ch/youtube-music avec nos icônes personnalisées !* 🎵
 
-Builds the app for macOS, Linux, and Windows,
-using [electron-builder](https://github.com/electron-userland/electron-builder).
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B6B&height=120&section=footer&text=Profite%20bien%20de%20la%20musique%20!&fontSize=30&fontColor=ffffff&animation=twinkling"/>
 
-## Production Preview
+</div>
 
-```bash
-pnpm start
-```
-
-## Tests
-
-```bash
-pnpm test
-```
-
-Uses [Playwright](https://playwright.dev/) to test the app.
-
-## License
-
-MIT © [th-ch](https://github.com/th-ch/youtube-music)
-
-## FAQ
-
-### Why apps menu isn't showing up?
-
-If `Hide Menu` option is on - you can show the menu with the <kbd>alt</kbd> key (or <kbd>\`</kbd> [backtick] if using
-the in-app-menu plugin)
+</div>
