@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B6B&height=120&section=header&text=AMADEUSE%20YTM&fontSize=50&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header&text=AMADEUSE%20YTM&fontSize=50&fontColor=ffffff&animation=twinkling"/>
 
 # 🎵 Yo ! Moi c'est AMADEUSE YTM
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=🇫🇷+Client+YouTube+Music+Desktop;🇬🇧+YouTube+Music+Desktop+Client;🇫🇷+Basé+sur+th-ch%2Fyoutube-music;🇬🇧+Based+on+th-ch%2Fyoutube-music;🇫🇷+Avec+icônes+personnalisées+AMADEUSE;🇬🇧+With+custom+AMADEUSE+icons" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=🇫🇷+Client+YouTube+Music+Desktop;🇬🇧+YouTube+Music+Desktop+Client;🇫🇷+Basé+sur+th-ch%2Fyoutube-music;🇬🇧+Based+on+th-ch%2Fyoutube-music;🇫🇷+Avec+icônes+personnalisées+AMADEUSE;🇬🇧+With+custom+AMADEUSE+icons" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -187,7 +187,7 @@ print(project.get_inspiration())
 <br>
 
 ![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
-![Custom Icons](https://img.shields.io/badge/AMADEUSE_Icons-FF6B6B?style=for-the-badge&logo=image&logoColor=white)
+![Custom Icons](https://img.shields.io/badge/AMADEUSE_Icons-6366F1?style=for-the-badge&logo=image&logoColor=white)
 ![Themes](https://img.shields.io/badge/Custom_Themes-6200EA?style=for-the-badge&logo=palette&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -353,14 +353,14 @@ l'expérience musicale
 
 ### ✨ **"YouTube Music en desktop, mais avec du style AMADEUSE !"** ✨
 
-![GitHub](https://img.shields.io/badge/Made_with-❤️_by_AveryMyst-FF6B6B?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=AveryMist&color=FF6B6B&style=for-the-badge&label=Profile+Views)
+![GitHub](https://img.shields.io/badge/Made_with-❤️_by_AveryMyst-6366F1?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=AveryMist&color=6366F1&style=for-the-badge&label=Profile+Views)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 *Basé sur le projet th-ch/youtube-music avec nos icônes personnalisées !* 🎵
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B6B&height=120&section=footer&text=Profite%20bien%20de%20la%20musique%20!&fontSize=30&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer&text=Profite%20bien%20de%20la%20musique%20!&fontSize=30&fontColor=ffffff&animation=twinkling"/>
 
 </div>
 
