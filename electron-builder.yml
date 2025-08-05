@@ -38,6 +38,18 @@ win:
   compression: maximum
 nsisWeb:
   runAfterFinish: false
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+  deleteAppDataOnUninstall: true
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+  deleteAppDataOnUninstall: true
+  createDesktopShortcut: always
+  createStartMenuShortcut: true
+  allowElevation: true
+  installerIcon: assets/generated/icons/win/icon.ico
+  uninstallerIcon: assets/generated/icons/win/icon.ico
 linux:
   icon: assets/generated/icons/png
   category: AudioVideo
