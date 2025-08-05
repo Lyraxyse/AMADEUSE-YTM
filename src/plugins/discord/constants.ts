@@ -1,7 +1,7 @@
 /**
  * Application ID registered by @th-ch/youtube-music dev team
  */
-export const clientId = '1177081335727267940';
+export const clientId = '1356621256920797245';
 /**
  * Throttle time for progress updates in milliseconds
  */

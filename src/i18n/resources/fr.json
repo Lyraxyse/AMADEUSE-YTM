@@ -894,6 +894,17 @@
         "visualizer-type": "Type de visualiseur"
       },
       "name": "Visualiseur"
+    },
+    "vrchat-osc": {
+      "description": "Affiche les informations musicales dans la chatbox de VRChat via OSC",
+      "menu": {
+        "enabled": "Activé",
+        "host": "Adresse hôte",
+        "port": "Port OSC",
+        "showProgress": "Afficher la progression",
+        "updateInterval": "Intervalle de mise à jour"
+      },
+      "name": "VRChat OSC Chatbox"
     }
   }
 }
