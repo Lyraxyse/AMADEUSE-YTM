@@ -26,8 +26,6 @@
 <img src="https://img.shields.io/badge/Code-📂%20Open%20Source-success?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="Open Source"/>
 </p>
 
-
-
 <!-- Social proof section -->
 <p>
 <img src="https://img.shields.io/github/stars/AveryMist/AMADEUSE-MUSIC-NEWS?style=for-the-badge&logo=github&color=yellow&labelColor=1a1a1a" alt="GitHub stars"/>
@@ -43,8 +41,6 @@
 </div>
 
 ---
-
-
 
 <div align="center">
 
