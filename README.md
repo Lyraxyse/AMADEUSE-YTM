@@ -72,10 +72,10 @@
 class AmadeuseMusicNews {
     name = "AMADEUSE MUSIC NEWS"
     version = "1.0.0"
-    description = "Modern Music News Aggregator"
+    description = "Modern Music News Desktop Aggregator"
     status = "🚀 In Active Development"
     mission = "Real-time music news for everyone"
-    platform = "Web Application (Electron)"
+    platform = "Desktop Application (Electron)"
     technologies = ["TypeScript", "Electron", "Vite", "Modern UI"]
     
     getFeatures(): string[] {
@@ -221,6 +221,12 @@ console.log(amadeuseNews.sayHello())
 
 ## 🛠️ **Installation**
 
+### Prerequisites
+- Node.js 22.x or higher
+- pnpm package manager
+- Operating System: Windows, macOS, or Linux
+
+### Development Setup
 ```bash
 # Clone the repository
 git clone https://github.com/AveryMist/AMADEUSE-MUSIC-NEWS.git
@@ -228,19 +234,38 @@ git clone https://github.com/AveryMist/AMADEUSE-MUSIC-NEWS.git
 # Navigate to the folder
 cd AMADEUSE-MUSIC-NEWS
 
-# Install dependencies
-npm install
+# Install pnpm if not already installed
+npm install -g pnpm
 
-# Start the application
-npm start
+# Install dependencies
+pnpm install --frozen-lockfile
+
+# Start the desktop application in development mode
+pnpm dev
+```
+
+### Production Build
+```bash
+# Build the application
+pnpm build
+
+# Start the desktop application
+pnpm start
+
+# Or build distributable packages
+pnpm dist:win    # Windows
+pnpm dist:mac    # macOS
+pnpm dist:linux  # Linux
 ```
 
 ## 💻 **Usage**
 
-1. Start the application with `npm start`
-2. Open your browser at `http://localhost:3000`
-3. Explore the latest music news
-4. Configure your preferences in settings
+1. **Development**: Run `pnpm dev` to start the application in development mode
+2. **Production**: Run `pnpm start` to launch the built desktop application
+3. The application will open as a **desktop window** (not in browser)
+4. Explore the latest music news through the desktop interface
+5. Configure your preferences in the application settings menu
+6. Use keyboard shortcuts and system tray integration for enhanced experience
 
 ## 🤝 **Contributing**
 
