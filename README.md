@@ -42,9 +42,10 @@
 
 ---
 
-<div align="center">
+<details open>
+<summary><h2>🌟 About AMADEUSE MUSIC NEWS</h2></summary>
 
-## 🌟 **About AMADEUSE MUSIC NEWS**
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
 
@@ -101,9 +102,12 @@ const amadeuseNews = new AmadeuseMusicNews()
 console.log(amadeuseNews.sayHello())
 ```
 
-<div align="center">
+</details>
 
-## 🚀 **Key Features**
+<details>
+<summary><h2>🚀 Key Features</h2></summary>
+
+<div align="center">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -167,6 +171,11 @@ console.log(amadeuseNews.sayHello())
 
 </div>
 
+</details>
+
+<details>
+<summary><h2>🛠️ Technical Stack</h2></summary>
+
 ## 🛠️ **Technical Stack**
 
 <div align="center">
@@ -217,6 +226,11 @@ console.log(amadeuseNews.sayHello())
 
 </div>
 
+</details>
+
+<details>
+<summary><h2>📥 Installation & Setup</h2></summary>
+
 ---
 
 ## 🛠️ **Installation**
@@ -258,6 +272,11 @@ pnpm dist:mac    # macOS
 pnpm dist:linux  # Linux
 ```
 
+</details>
+
+<details>
+<summary><h2>💻 Usage</h2></summary>
+
 ## 💻 **Usage**
 
 1. **Development**: Run `pnpm dev` to start the application in development mode
@@ -266,6 +285,11 @@ pnpm dist:linux  # Linux
 4. Explore the latest music news through the desktop interface
 5. Configure your preferences in the application settings menu
 6. Use keyboard shortcuts and system tray integration for enhanced experience
+
+</details>
+
+<details>
+<summary><h2>🤝 Contributing</h2></summary>
 
 ## 🤝 **Contributing**
 
@@ -277,6 +301,11 @@ Contributions are welcome! To contribute:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+</details>
+
+<details>
+<summary><h2>📄 License</h2></summary>
+
 ---
 
 <div align="center">
@@ -287,12 +316,19 @@ Contributions are welcome! To contribute:
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
+</details>
+
+<details>
+<summary><h2>📞 Contact & Community</h2></summary>
+
 ## 📞 **Contact**
 
 - **GitHub**: [AveryMist](https://github.com/AveryMist)
 - **Discord**: [AMADEUSE Community](https://discord.gg/GEZCQwczMY)
 
 ![GitHub](https://img.shields.io/badge/Made_with-❤️_by_AveryMyst-6366F1?style=for-the-badge)
+
+</details>
 
 <!-- Snake animation -->
 <picture>
