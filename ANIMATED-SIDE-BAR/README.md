@@ -1,62 +1,207 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header&text=ANIMATED%20SIDE%20BAR&fontSize=50&fontColor=ffffff&animation=twinkling"/>
+<!-- Header with animated wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=250&section=header&text=ANIMATED%20SIDE%20BAR&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=📱%20Flutter%20Package%20•%20🎨%20Smooth%20Animations%20•%20📦%20Multi-platform%20•%20🚀%20Active&descAlignY=60&descSize=20"/>
 
-# 📱 ANIMATED SIDE BAR - Flutter Package
+<!-- Animated typing effect with more style -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=900&height=120&lines=📱+Package+Flutter+sidebar+animée;🎨+Animations+fluides+et+modernes;📦+Multi-plateforme+%26+responsive;🚀+Personnalisation+complète;🌟+Code+libre+pour+la+communauté" alt="Typing Animation" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Package+Flutter+sidebar+animée;Multi-plateforme+%26+responsive;Animations+fluides+et+modernes;Personnalisation+complète;Published+on+Pub.dev" alt="Typing SVG" />
-
+<!-- Enhanced decorative elements -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌍 **Navigation Bilingue / Bilingual Navigation**
+<!-- Status badges with animations -->
+<p>
+<img src="https://img.shields.io/badge/Status-🚀%20ACTIVE-success?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="Status"/>
+<img src="https://img.shields.io/badge/Platform-📱%20Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1a1a" alt="Platform"/>
+<img src="https://img.shields.io/badge/License-📄%20MIT-blue?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=1a1a1a" alt="License"/>
+<img src="https://img.shields.io/badge/Code-📂%20Open%20Source-success?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="Open Source"/>
+</p>
 
-**[🇫🇷 Français](#-français)** | **[🇬🇧 English](#-english)**
+<!-- Language selector with enhanced styling -->
+<table>
+<tr>
+<td align="center">
+<a href="#english">
+<img src="https://img.shields.io/badge/🇬🇧_English-FF6B6B?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="English"/>
+</a>
+</td>
+<td align="center">
+<a href="#français">
+<img src="https://img.shields.io/badge/🇫🇷_Français-FF9800?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="Français"/>
+</a>
+</td>
+</tr>
+</table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Social proof section -->
+<p>
+<img src="https://img.shields.io/github/stars/AveryMist/ANIMATED-SIDE-BAR?style=for-the-badge&logo=github&color=yellow&labelColor=1a1a1a" alt="GitHub stars"/>
+<img src="https://img.shields.io/github/forks/AveryMist/ANIMATED-SIDE-BAR?style=for-the-badge&logo=github&color=blue&labelColor=1a1a1a" alt="GitHub forks"/>
+<img src="https://img.shields.io/github/watchers/AveryMist/ANIMATED-SIDE-BAR?style=for-the-badge&logo=github&color=green&labelColor=1a1a1a" alt="GitHub watchers"/>
+</p>
 
 </div>
 
-# 🇫🇷 Français
+---
+
+<div id="english">
+
+# 🇬🇧 English Version
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Status-✅_PUBLIÉ-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Platform-🖥️_Multi_Platform-6366F1?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/License-📄_MIT-blue?style=for-the-badge" />
+## 🌟 **About ANIMATED SIDE BAR**
 
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🚀 **Un peu sur moi**
+<!-- Project showcase with enhanced visuals -->
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/📱-Flutter%20Package-FF6B6B?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="Flutter"/>
+<br/><b>Smooth Animations</b>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🎨-Custom%20UI-FF9800?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="Custom UI"/>
+<br/><b>Full Customization</b>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/📦-Multi%20Platform-4CAF50?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="Multi Platform"/>
+<br/><b>Cross Platform</b>
+</td>
+</tr>
+</table>
 
-```python
-class AnimatedSideBar:
-    def __init__(self):
-        self.nom = "ANIMATED SIDE BAR"
-        self.lieu = "Développée avec passion 📱"
-        self.bio = "Package Flutter qui révolutionne les sidebars"
-        self.quand_je_code_pas = "Je crée des animations ou optimise les performances"
-        self.truc_actuel = "Sidebar multi-plateforme - j'aime bien quand ça marche partout !"
-        self.passion = "Transformer les interfaces en expériences fluides"
-        self.addiction = "Animations 🎨 (beaucoup trop)"
-        self.motto = "Si ça s'anime, c'est déjà ça !"
-
-    def dire_bonjour(self):
-        return f"Salut ! Je suis {self.nom} 📱"
-
-    def get_status(self):
-        return "En train d'animer avec style 🎨📱"
-
-    def __str__(self):
-        return f"{self.nom} - {self.bio}"
-
-# Instanciation
-moi = AnimatedSideBar()
-print(moi.dire_bonjour())
+```dart
+class AnimatedSideBar {
+  final String name = "ANIMATED SIDE BAR";
+  final String type = "Flutter Package";
+  final String description = "Advanced Flutter package for creating smooth animated sidebars";
+  
+  final List<String> features = [
+    "🎨 Smooth and modern animations",
+    "📱 Multi-platform compatibility",
+    "⚡ Optimized performance",
+    "🔧 Complete customization",
+    "📦 Easy integration",
+    "🌟 Modern design patterns"
+  ];
+  
+  final List<String> platforms = ["Android", "iOS", "Web", "Desktop"];
+  final String status = "🚀 Active Development";
+  
+  String getInfo() {
+    return "I'm $name, a $type that enables creating sidebars with fluid animations!";
+  }
+}
 ```
 
+</div>
+
+## 🚀 **Key Features**
+
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🎨 **Animation & Design**
+<img src="https://img.shields.io/badge/Smooth-Animations-FF6B6B?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="Animations"/>
+<img src="https://img.shields.io/badge/Modern-Design-FF9800?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="Design"/>
+<img src="https://img.shields.io/badge/Custom-Themes-4CAF50?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="Themes"/>
+
+</td>
+<td align="center" width="50%">
+
+### 📱 **Platform & Performance**
+<img src="https://img.shields.io/badge/Multi-Platform-2196F3?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="Platform"/>
+<img src="https://img.shields.io/badge/High-Performance-9C27B0?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="Performance"/>
+<img src="https://img.shields.io/badge/Easy-Integration-FF5722?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="Integration"/>
+
+</td>
+</tr>
+</table>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+## 🛠️ **Technical Stack**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 💻 **Languages**
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=1a1a1a" alt="Dart"/>
+
+</td>
+<td align="center" width="25%">
+
+### 🚀 **Framework**
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1a1a" alt="Flutter"/>
+
+</td>
+<td align="center" width="25%">
+
+### 📱 **Platforms**
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=1a1a1a" alt="Android"/>
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white&labelColor=1a1a1a" alt="iOS"/>
+<img src="https://img.shields.io/badge/Web-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a1a" alt="Web"/>
+
+</td>
+<td align="center" width="25%">
+
+### 🎨 **Features**
+<img src="https://img.shields.io/badge/Animations-FF9800?style=for-the-badge&logo=adobe-after-effects&logoColor=white&labelColor=1a1a1a" alt="Animations"/>
+<img src="https://img.shields.io/badge/UI%2FUX-4CAF50?style=for-the-badge&logo=figma&logoColor=white&labelColor=1a1a1a" alt="UI/UX"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+</div>
+
+---
+
+<div id="français">
+
+# 🇫🇷 Version Française
+
+<div align="center">
+
+## 🌟 **À propos d'ANIMATED SIDE BAR**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+```dart
+class AnimatedSideBar {
+  final String nom = "ANIMATED SIDE BAR";
+  final String type = "Package Flutter";
+  final String description = "Package Flutter avancé pour créer des sidebars animées fluides";
+  
+  final List<String> fonctionnalites = [
+    "🎨 Animations fluides et modernes",
+    "📱 Compatibilité multi-plateforme",
+    "⚡ Performance optimisée",
+    "🔧 Personnalisation complète",
+    "📦 Intégration facile",
+    "🌟 Patterns de design modernes"
+  ];
+  
+  final List<String> plateformes = ["Android", "iOS", "Web", "Desktop"];
+  final String statut = "🚀 Développement Actif";
+  
+  String getInfo() {
+    return "Je suis $nom, un $type qui permet de créer des sidebars avec des animations fluides !";
+  }
+}
+```
 
 </div>
 
@@ -248,154 +393,9 @@ print(moi.dire_bonjour())
 
 ## 🤝 **On peut se parler !**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-# 🇬🇧 English
-
 <div align="center">
-
-<img src="https://img.shields.io/badge/Status-✅_PUBLISHED-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Platform-🖥️_Multi_Platform-6366F1?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/License-📄_MIT-blue?style=for-the-badge" />
-
-</div>
-
-### 🚀 **A bit about me**
-
-```python
-class AnimatedSideBar:
-    def __init__(self):
-        self.name = "ANIMATED SIDE BAR"
-        self.location = "Developed with passion 📱"
-        self.bio = "Flutter package that revolutionizes sidebars"
-        self.when_not_coding = "I create animations or optimize performance"
-        self.current_thing = "Multi-platform sidebar - I like when it works everywhere!"
-        self.passion = "Transforming interfaces into smooth experiences"
-        self.addiction = "Animations 🎨 (way too much)"
-        self.motto = "If it animates, that's already something!"
-
-    def say_hello(self):
-        return f"Hi! I'm {self.name} 📱"
-
-    def get_status(self):
-        return "Currently animating with style 🎨📱"
-
-    def __str__(self):
-        return f"{self.name} - {self.bio}"
-
-# Instantiation
-me = AnimatedSideBar()
-print(me.say_hello())
-```
-
-## 🎯 **My features**
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 📱 [ANIMATED SIDEBAR](https://pub.dev/packages/animated_side_bar)
-<img src="https://img.shields.io/badge/Status-✅_PUBLISHED-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Platform-🖥️_Multi_Platform-6366F1?style=for-the-badge&logo=flutter&logoColor=white" />
-
-*Revolutionary Flutter sidebar*
-
-🎨 **Main features:**
-- 🖥️ **Multi-platform** (macOS, Web, Windows, Linux)
-- 📱 **Smooth animations** and modern
-- 🎨 **Complete customization**
-- 🔄 **Responsive** and adaptive
-- ⚙️ **Easy configuration**
-
-[![Pub.dev](https://img.shields.io/badge/Pub.dev-02569B?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/animated_side_bar)
-
-</td>
-<td width="33%" align="center">
-
-### 🎨 [CUSTOMIZATION](https://pub.dev/packages/animated_side_bar)
-<img src="https://img.shields.io/badge/Status-✅_ACTIVE-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Feature-🎨_Themes-4CAF50?style=for-the-badge&logo=palette&logoColor=white" />
-
-*Advanced customization*
-
-🎭 **Main features:**
-- 🎨 **Customizable colors**
-- 📝 **Configurable texts**
-- 🔧 **Selected/unselected icons**
-- 📏 **Adjustable dimensions**
-- ⚡ **Optimized performance**
-
-[![Documentation](https://img.shields.io/badge/Documentation-4CAF50?style=for-the-badge&logo=book&logoColor=white)](https://pub.dev/packages/animated_side_bar)
-
-</td>
-<td width="33%" align="center">
-
-### 🚀 [PERFORMANCE](https://pub.dev/packages/animated_side_bar)
-<img src="https://img.shields.io/badge/Status-✅_OPTIMIZED-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Feature-⚡_Fast-FF9800?style=for-the-badge&logo=flash&logoColor=white" />
-
-*High performance*
-
-⚡ **Main features:**
-- 🚀 **Optimized rendering**
-- 💾 **Memory efficient**
-- 🔄 **Smooth transitions**
-- 📱 **Responsive design**
-- 🎯 **Lightweight package**
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AveryMist/ANIMATED-SIDE-BAR)
-
-</td>
-</tr>
-</table>
-
-### 🛠️ **My technologies**
-
-<div align="center">
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
-![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
-![Animations](https://img.shields.io/badge/Animations-6200EA?style=for-the-badge&logo=animation&logoColor=white)
-
-</div>
-
-### 💬 **Always up for:**
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-📱 **Developing**
-modern interfaces
-
-</td>
-<td width="25%" align="center">
-
-💡 **Discussing**
-Flutter animations
-
-</td>
-<td width="25%" align="center">
-
-🎨 **Creating**
-reusable components
-
-</td>
-<td width="25%" align="center">
-
-📦 **Improving**
-Flutter ecosystem
-
-</td>
-</tr>
-</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-## 📞 **Contact & Community / Contact & Communauté**
 
 <table>
 <tr>
@@ -403,33 +403,58 @@ Flutter ecosystem
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.gg/GEZCQwczMY)
 
-**AMADEUSE Community**
+**Communauté AMADEUSE**
 
 </td>
 <td align="center">
 
 [![Pub.dev](https://img.shields.io/badge/Pub.dev-02569B?style=for-the-badge&logo=dart&logoColor=white&labelColor=02569B)](https://pub.dev/packages/animated_side_bar)
 
-**Official Package**
+**Package officiel**
 
 </td>
 <td align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white&labelColor=121011)](https://github.com/AveryMist/ANIMATED-SIDE-BAR)
 
-**Source Code**
+**Code source**
 
 </td>
 </tr>
 </table>
 
----
+### 💬 **Toujours partant pour :**
 
-*"Le code est de la poésie écrite pour les machines, mais lue par les humains."*
+<table>
+<tr>
+<td width="25%" align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=AveryMist&color=6366F1&style=for-the-badge)
+📱 **Développer**
+des interfaces modernes
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer"/>
+</td>
+<td width="25%" align="center">
+
+💡 **Discuter**
+d'animations Flutter
+
+</td>
+<td width="25%" align="center">
+
+🎨 **Créer**
+des composants réutilisables
+
+</td>
+<td width="25%" align="center">
+
+📦 **Améliorer**
+l'écosystème Flutter
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 

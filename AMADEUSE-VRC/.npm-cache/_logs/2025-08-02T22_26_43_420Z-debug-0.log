@@ -1,0 +1,89 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.9.2
+2 info using node@v22.17.1
+3 silly config load:file:C:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\AveryMist  #Windows\AppData\Local\Microsoft\TypeScript\5.8\.npmrc
+5 silly config load:file:C:\Users\AveryMist  #Windows\.npmrc
+6 silly config load:file:C:\Users\AveryMist  #Windows\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm install types-registry@latest
+8 verbose argv "install" "--ignore-scripts" "types-registry@latest"
+9 verbose logfile logs-max:10 dir:d:\GITHUB\AMADEUSE-VRC\.npm-cache\_logs\2025-08-02T22_26_43_420Z-
+10 verbose logfile d:\GITHUB\AMADEUSE-VRC\.npm-cache\_logs\2025-08-02T22_26_43_420Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
+13 silly packumentCache corgi:https://registry.npmjs.org/types-registry cache-miss
+14 http fetch GET 200 https://registry.npmjs.org/types-registry 482ms (cache miss)
+15 silly packumentCache corgi:https://registry.npmjs.org/types-registry set size:undefined disposed:false
+16 silly idealTree buildDeps
+17 silly fetch manifest types-registry@0.1.731
+18 silly packumentCache full:https://registry.npmjs.org/types-registry cache-miss
+19 http fetch GET 200 https://registry.npmjs.org/types-registry 115ms (cache miss)
+20 silly packumentCache full:https://registry.npmjs.org/types-registry set size:undefined disposed:false
+21 silly placeDep ROOT types-registry@0.1.731 REPLACE for:  want: 0.1.731
+22 silly reify moves {}
+23 silly audit bulk request {
+23 silly audit   '@babel/helper-string-parser': [ '7.27.1' ],
+23 silly audit   '@babel/helper-validator-identifier': [ '7.27.1' ],
+23 silly audit   '@babel/parser': [ '7.28.0' ],
+23 silly audit   '@babel/types': [ '7.28.1' ],
+23 silly audit   '@types/babel__core': [ '7.20.5' ],
+23 silly audit   '@types/babel__generator': [ '7.27.0' ],
+23 silly audit   '@types/babel__preset-env': [ '7.10.0' ],
+23 silly audit   '@types/babel__template': [ '7.4.4' ],
+23 silly audit   '@types/babel__traverse': [ '7.20.7' ],
+23 silly audit   '@types/body-parser': [ '1.19.6' ],
+23 silly audit   '@types/caseless': [ '0.12.5' ],
+23 silly audit   '@types/connect': [ '3.4.38' ],
+23 silly audit   '@types/cors': [ '2.8.19' ],
+23 silly audit   '@types/estree': [ '1.0.8' ],
+23 silly audit   '@types/express': [ '5.0.3' ],
+23 silly audit   '@types/express-serve-static-core': [ '5.0.7' ],
+23 silly audit   '@types/http-errors': [ '2.0.5' ],
+23 silly audit   '@types/merge-descriptors': [ '1.0.3' ],
+23 silly audit   '@types/mime': [ '1.3.5' ],
+23 silly audit   '@types/multer': [ '2.0.0' ],
+23 silly audit   '@types/node': [ '24.0.15' ],
+23 silly audit   '@types/qs': [ '6.14.0' ],
+23 silly audit   '@types/range-parser': [ '1.2.7' ],
+23 silly audit   '@types/react': [ '19.1.8' ],
+23 silly audit   '@types/react-dom': [ '19.1.6' ],
+23 silly audit   '@types/request': [ '2.48.12' ],
+23 silly audit   '@types/send': [ '0.17.5' ],
+23 silly audit   '@types/serve-static': [ '1.15.8' ],
+23 silly audit   '@types/tough-cookie': [ '4.0.5' ],
+23 silly audit   '@types/whatwg-mimetype': [ '3.0.2' ],
+23 silly audit   '@types/yargs': [ '17.0.33' ],
+23 silly audit   '@types/yargs-parser': [ '21.0.3' ],
+23 silly audit   asynckit: [ '0.4.0' ],
+23 silly audit   'call-bind-apply-helpers': [ '1.0.2' ],
+23 silly audit   'combined-stream': [ '1.0.8' ],
+23 silly audit   csstype: [ '3.1.3' ],
+23 silly audit   'delayed-stream': [ '1.0.0' ],
+23 silly audit   'dunder-proto': [ '1.0.1' ],
+23 silly audit   'es-define-property': [ '1.0.1' ],
+23 silly audit   'es-errors': [ '1.3.0' ],
+23 silly audit   'es-object-atoms': [ '1.1.1' ],
+23 silly audit   'es-set-tostringtag': [ '2.1.0' ],
+23 silly audit   'form-data': [ '2.5.5' ],
+23 silly audit   'function-bind': [ '1.1.2' ],
+23 silly audit   'get-intrinsic': [ '1.3.0' ],
+23 silly audit   'get-proto': [ '1.0.1' ],
+23 silly audit   gopd: [ '1.2.0' ],
+23 silly audit   'has-symbols': [ '1.1.0' ],
+23 silly audit   'has-tostringtag': [ '1.0.2' ],
+23 silly audit   hasown: [ '2.0.2' ],
+23 silly audit   'math-intrinsics': [ '1.1.0' ],
+23 silly audit   'mime-db': [ '1.52.0' ],
+23 silly audit   'mime-types': [ '2.1.35' ],
+23 silly audit   'safe-buffer': [ '5.2.1' ],
+23 silly audit   'undici-types': [ '7.8.0' ],
+23 silly audit   'types-registry': [ '0.1.731' ]
+23 silly audit }
+24 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 234ms
+25 silly audit report {}
+26 verbose cwd C:\Users\AveryMist  #Windows\AppData\Local\Microsoft\TypeScript\5.8
+27 verbose os Windows_NT 10.0.26100
+28 verbose node v22.17.1
+29 verbose npm  v10.9.2
+30 verbose exit 0
+31 info ok

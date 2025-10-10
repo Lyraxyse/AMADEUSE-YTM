@@ -1,66 +1,215 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header&text=TERMINATE%20RESTART&fontSize=50&fontColor=ffffff&animation=twinkling"/>
+<!-- Header with animated wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,21,30&height=250&section=header&text=TERMINATE%20RESTART&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=🔄%20Flutter%20Plugin%20•%20🚀%20Advanced%20Restart%20•%20📱%20Multi-platform%20•%20🛡️%20Secure&descAlignY=60&descSize=20"/>
 
-# 🔄 TERMINATE RESTART - Flutter Plugin
+<!-- Animated typing effect with more style -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=800&color=FF5722&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🔄+Plugin+Flutter+restart+avancé;🚀+Redémarrage+UI+%26+processus;🛡️+Gestion+sécurisée+des+données;📱+Conformité+App+Store+iOS;🌟+Code+libre+pour+la+communauté" alt="Typing Animation" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Plugin+Flutter+restart+avancé;Redémarrage+UI+%26+processus+complet;Gestion+sécurisée+des+données;Conformité+App+Store+iOS;Published+on+Pub.dev" alt="Typing SVG" />
-
+<!-- Enhanced decorative elements -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌍 **Navigation Bilingue / Bilingual Navigation**
+<!-- Status badges with animations -->
+<p>
+<img src="https://img.shields.io/badge/Status-🚀%20ACTIVE-success?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="Status"/>
+<img src="https://img.shields.io/badge/Platform-📱%20Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1a1a" alt="Platform"/>
+<img src="https://img.shields.io/badge/License-📄%20MIT-blue?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=1a1a1a" alt="License"/>
+<img src="https://img.shields.io/badge/Code-📂%20Open%20Source-success?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="Open Source"/>
+</p>
 
-**[🇫🇷 Français](#-français)** | **[🇬🇧 English](#-english)**
+<!-- Language selector with enhanced styling -->
+<table>
+<tr>
+<td align="center">
+<a href="#english">
+<img src="https://img.shields.io/badge/🇬🇧_English-FF5722?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="English"/>
+</a>
+</td>
+<td align="center">
+<a href="#français">
+<img src="https://img.shields.io/badge/🇫🇷_Français-2196F3?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="Français"/>
+</a>
+</td>
+</tr>
+</table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Social proof section -->
+<p>
+<img src="https://img.shields.io/github/stars/AveryMist/TERMINATE-RESTART?style=for-the-badge&logo=github&color=yellow&labelColor=1a1a1a" alt="GitHub stars"/>
+<img src="https://img.shields.io/github/forks/AveryMist/TERMINATE-RESTART?style=for-the-badge&logo=github&color=blue&labelColor=1a1a1a" alt="GitHub forks"/>
+<img src="https://img.shields.io/github/watchers/AveryMist/TERMINATE-RESTART?style=for-the-badge&logo=github&color=green&labelColor=1a1a1a" alt="GitHub watchers"/>
+</p>
 
 </div>
 
-# 🇫🇷 Français
+---
+
+<div id="english">
+
+# 🇬🇧 English Version
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Status-✅_PUBLIÉ-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Platform-🖥️_Multi_Platform-6366F1?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/License-📄_MIT-blue?style=for-the-badge" />
+## 🌟 **About TERMINATE RESTART**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Project showcase with enhanced visuals -->
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🔄-Restart%20Plugin-FF5722?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="Restart"/>
+<br/><b>Advanced Restart</b>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🛡️-Secure%20Data-2196F3?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="Secure"/>
+<br/><b>Data Management</b>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/📱-App%20Store-4CAF50?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="App Store"/>
+<br/><b>iOS Compliant</b>
+</td>
+</tr>
+</table>
 
 </div>
 
-### 🚀 **Un peu sur moi**
+```dart
+class TerminateRestart {
+  final String name = "TERMINATE RESTART";
+  final String type = "Flutter Plugin";
+  final String description = "Advanced Flutter plugin for UI and full process restarts";
+  
+  final List<String> features = [
+    "🔄 UI and full process restart",
+    "🛡️ Secure data management",
+    "📱 iOS App Store compliance",
+    "⚡ Optimized performance",
+    "🔧 Flexible configuration",
+    "🌟 Simple and robust API"
+  ];
+  
+  final List<String> platforms = ["Android", "iOS", "Web", "Desktop"];
+  final String status = "🚀 Active Development";
+  
+  String getInfo() {
+    return "I'm $name, a $type that handles restarts securely and efficiently!";
+  }
+}
 
-```python
-class TerminateRestart:
-    def __init__(self):
-        self.nom = "TERMINATE RESTART"
-        self.lieu = "Développée avec passion 🔄"
-        self.bio = "Plugin Flutter qui révolutionne les redémarrages"
-        self.quand_je_redémarre_pas = "J'optimise les performances ou gère la sécurité"
-        self.truc_actuel = "Redémarrage multi-mode - j'aime bien quand ça marche partout !"
-        self.passion = "Transformer les redémarrages en expériences fluides"
-        self.addiction = "Optimisation 🚀 (beaucoup trop)"
-        self.motto = "Si ça redémarre, c'est déjà ça !"
-
-    def dire_bonjour(self):
-        return f"Salut ! Je suis {self.nom} 🔄"
-
-    def get_status(self):
-        return "En train de redémarrer avec style 🚀🔄"
-
-    def __str__(self):
-        return f"{self.nom} - {self.bio}"
-
-# Instanciation
-moi = TerminateRestart()
-print(moi.dire_bonjour())
+// Usage example
+final plugin = TerminateRestart();
+print(plugin.getInfo());
 ```
 
+</div>
+
+## 🚀 **Key Features**
+
 <div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🔄 **Restart & Security**
+<img src="https://img.shields.io/badge/UI-Restart-FF5722?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="UI Restart"/>
+<img src="https://img.shields.io/badge/Process-Restart-2196F3?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="Process Restart"/>
+<img src="https://img.shields.io/badge/Secure-Data-4CAF50?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="Secure Data"/>
+
+</td>
+<td align="center" width="50%">
+
+### 📱 **Platform & Compliance**
+<img src="https://img.shields.io/badge/Multi-Platform-9C27B0?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="Platform"/>
+<img src="https://img.shields.io/badge/iOS-Compliant-FF9800?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="iOS Compliant"/>
+<img src="https://img.shields.io/badge/High-Performance-FF6B6B?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="Performance"/>
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
-## 🎯 **Mes fonctionnalités**
+## 🛠️ **Technical Stack**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 💻 **Languages**
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=1a1a1a" alt="Dart"/>
+
+</td>
+<td align="center" width="25%">
+
+### 🚀 **Framework**
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1a1a" alt="Flutter"/>
+
+</td>
+<td align="center" width="25%">
+
+### 🔄 **Features**
+<img src="https://img.shields.io/badge/Restart-FF5722?style=for-the-badge&logo=refresh&logoColor=white&labelColor=1a1a1a" alt="Restart"/>
+<img src="https://img.shields.io/badge/Security-2196F3?style=for-the-badge&logo=shield&logoColor=white&labelColor=1a1a1a" alt="Security"/>
+
+</td>
+<td align="center" width="25%">
+
+### 📱 **Platforms**
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=1a1a1a" alt="Android"/>
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white&labelColor=1a1a1a" alt="iOS"/>
+<img src="https://img.shields.io/badge/Web-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a1a" alt="Web"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+</div>
+
+---
+
+<div id="français">
+
+# 🇫🇷 Version Française
+
+<div align="center">
+
+## 🌟 **À propos de TERMINATE RESTART**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+```dart
+class TerminateRestart {
+  final String nom = "TERMINATE RESTART";
+  final String type = "Plugin Flutter";
+  final String description = "Plugin Flutter avancé pour redémarrage UI et processus complet";
+  
+  final List<String> fonctionnalites = [
+    "🔄 Redémarrage UI et processus complet",
+    "🛡️ Gestion sécurisée des données",
+    "📱 Conformité App Store iOS",
+    "⚡ Performance optimisée",
+    "🔧 Configuration flexible",
+    "🌟 API simple et robuste"
+  ];
+  
+  final List<String> plateformes = ["Android", "iOS", "Web", "Desktop"];
+  final String statut = "🚀 Développement Actif";
+  
+  String getInfo() {
+    return "Je suis $nom, un $type qui gère les redémarrages de manière sécurisée et efficace !";
+  }
+}
+```
+
+</div>🎯 **Mes fonctionnalités**
 
 <div align="center">
 
@@ -248,154 +397,11 @@ print(moi.dire_bonjour())
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-# 🇬🇧 English
+## 🤝 **On peut se parler !**
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Status-✅_PUBLISHED-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Platform-🖥️_Multi_Platform-6366F1?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/License-📄_MIT-blue?style=for-the-badge" />
-
-</div>
-
-### 🚀 **A bit about me**
-
-```python
-class TerminateRestart:
-    def __init__(self):
-        self.name = "TERMINATE RESTART"
-        self.location = "Developed with passion 🔄"
-        self.bio = "Flutter plugin that revolutionizes restarts"
-        self.when_not_restarting = "I optimize performance or manage security"
-        self.current_thing = "Multi-mode restart - I like when it works everywhere!"
-        self.passion = "Transforming restarts into smooth experiences"
-        self.addiction = "Optimization 🚀 (way too much)"
-        self.motto = "If it restarts, that's already something!"
-
-    def say_hello(self):
-        return f"Hi! I'm {self.name} 🔄"
-
-    def get_status(self):
-        return "Currently restarting with style 🚀🔄"
-
-    def __str__(self):
-        return f"{self.name} - {self.bio}"
-
-# Instantiation
-me = TerminateRestart()
-print(me.say_hello())
-```
-
-## 🎯 **My features**
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🔄 [UI RESTART](https://pub.dev/packages/terminate_restart)
-<img src="https://img.shields.io/badge/Status-✅_PUBLISHED-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Platform-🖥️_Multi_Platform-6366F1?style=for-the-badge&logo=flutter&logoColor=white" />
-
-*Advanced Flutter restart*
-
-🎨 **Main features:**
-- 🔄 **UI restart** without losing state
-- 📱 **Cross-platform** compatibility
-- 🔒 **Secure data** management
-- ⚡ **Fast performance**
-- 🍎 **iOS App Store** compliant
-
-[![Pub.dev](https://img.shields.io/badge/Pub.dev-02569B?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/terminate_restart)
-
-</td>
-<td width="33%" align="center">
-
-### 🔒 [SECURITY](https://pub.dev/packages/terminate_restart)
-<img src="https://img.shields.io/badge/Status-✅_SECURE-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Feature-🔒_Safe-4CAF50?style=for-the-badge&logo=shield&logoColor=white" />
-
-*Secure restart management*
-
-🛡️ **Main features:**
-- 🔒 **Data protection** during restart
-- 📱 **Memory cleanup**
-- 🔐 **State preservation**
-- ⚡ **Optimized performance**
-- 🍎 **iOS compliance**
-
-[![Documentation](https://img.shields.io/badge/Documentation-4CAF50?style=for-the-badge&logo=book&logoColor=white)](https://pub.dev/packages/terminate_restart)
-
-</td>
-<td width="33%" align="center">
-
-### ⚡ [PERFORMANCE](https://pub.dev/packages/terminate_restart)
-<img src="https://img.shields.io/badge/Status-✅_OPTIMIZED-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Feature-⚡_Fast-FF9800?style=for-the-badge&logo=flash&logoColor=white" />
-
-*High performance restart*
-
-🚀 **Main features:**
-- 🚀 **Lightning fast** restart
-- 💾 **Memory efficient**
-- 🔄 **Smooth transitions**
-- 📱 **Responsive design**
-- 🎯 **Lightweight plugin**
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AveryMist/TERMINATE-RESTART)
-
-</td>
-</tr>
-</table>
-
-### 🛠️ **My technologies**
-
-<div align="center">
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-</div>
-
-### 💬 **Always up for:**
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-🔄 **Optimizing**
-restart processes
-
-</td>
-<td width="25%" align="center">
-
-💡 **Discussing**
-mobile security
-
-</td>
-<td width="25%" align="center">
-
-🔧 **Configuring**
-robust solutions
-
-</td>
-<td width="25%" align="center">
-
-📦 **Improving**
-Flutter ecosystem
-
-</td>
-</tr>
-</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-## 📞 **Contact & Community / Contact & Communauté**
 
 <table>
 <tr>
@@ -403,33 +409,58 @@ Flutter ecosystem
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.gg/GEZCQwczMY)
 
-**AMADEUSE Community**
+**Communauté AMADEUSE**
 
 </td>
 <td align="center">
 
 [![Pub.dev](https://img.shields.io/badge/Pub.dev-02569B?style=for-the-badge&logo=dart&logoColor=white&labelColor=02569B)](https://pub.dev/packages/terminate_restart)
 
-**Official Package**
+**Package officiel**
 
 </td>
 <td align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white&labelColor=121011)](https://github.com/AveryMist/TERMINATE-RESTART)
 
-**Source Code**
+**Code source**
 
 </td>
 </tr>
 </table>
 
----
+### 💬 **Toujours partant pour :**
 
-*"Le code est de la poésie écrite pour les machines, mais lue par les humains."*
+<table>
+<tr>
+<td width="25%" align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=AveryMist&color=6366F1&style=for-the-badge)
+🔄 **Optimiser**
+les redémarrages
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer"/>
+</td>
+<td width="25%" align="center">
+
+💡 **Discuter**
+de sécurité mobile
+
+</td>
+<td width="25%" align="center">
+
+🔧 **Configurer**
+des solutions robustes
+
+</td>
+<td width="25%" align="center">
+
+📦 **Améliorer**
+l'écosystème Flutter
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 

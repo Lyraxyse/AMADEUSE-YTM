@@ -22,7 +22,7 @@
 
 ## Français
 
-### 👨‍💻 À propos de moi
+### �‍💻 À propos de moi
 
 **Salut ! Je suis AveryMyst**, développeur passionné spécialisé dans la création d'applications musicales et de lecture. Je développe principalement des projets sous la marque **AMADEUSE**, avec un focus sur l'expérience utilisateur et l'innovation.
 

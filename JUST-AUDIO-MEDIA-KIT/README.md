@@ -1,62 +1,207 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header&text=JUST%20AUDIO%20MEDIA%20KIT&fontSize=50&fontColor=ffffff&animation=twinkling"/>
+<!-- Header with animated wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=JUST%20AUDIO%20MEDIA%20KIT&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=🎵%20Flutter%20Plugin%20•%20🎧%20Advanced%20Audio%20•%20📱%20Multi-platform%20•%20🚀%20Active&descAlignY=60&descSize=20"/>
 
-# 🎵 Yo ! Moi c'est JUST AUDIO MEDIA KIT
+<!-- Animated typing effect with more style -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=800&color=9C27B0&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🎵+Plugin+Flutter+audio+avancé;🎧+Intégration+media_kit+%2B+just_audio;📱+Performance+multi-plateforme;🚀+Contrôle+audio+professionnel;🌟+Code+libre+pour+la+communauté" alt="Typing Animation" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Plugin+Flutter+audio+avancé;Intégration+media_kit+%26+just_audio;Multi-plateforme+%26+performant;Configuration+flexible" alt="Typing SVG" />
-
-## 🌍 **Navigation Bilingue / Bilingual Navigation**
-
-**[🇫🇷 Français](#-français)** | **[🇬🇧 English](#-english)**
-
+<!-- Enhanced decorative elements -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Status badges with animations -->
+<p>
+<img src="https://img.shields.io/badge/Status-🚀%20ACTIVE-success?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="Status"/>
+<img src="https://img.shields.io/badge/Platform-📱%20Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1a1a" alt="Platform"/>
+<img src="https://img.shields.io/badge/License-📄%20MIT-blue?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=1a1a1a" alt="License"/>
+<img src="https://img.shields.io/badge/Code-📂%20Open%20Source-success?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="Open Source"/>
+</p>
+
+<!-- Language selector with enhanced styling -->
+<table>
+<tr>
+<td align="center">
+<a href="#english">
+<img src="https://img.shields.io/badge/🇬🇧_English-9C27B0?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="English"/>
+</a>
+</td>
+<td align="center">
+<a href="#français">
+<img src="https://img.shields.io/badge/🇫🇷_Français-FF5722?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="Français"/>
+</a>
+</td>
+</tr>
+</table>
+
+<!-- Social proof section -->
+<p>
+<img src="https://img.shields.io/github/stars/AveryMist/JUST-AUDIO-MEDIA-KIT?style=for-the-badge&logo=github&color=yellow&labelColor=1a1a1a" alt="GitHub stars"/>
+<img src="https://img.shields.io/github/forks/AveryMist/JUST-AUDIO-MEDIA-KIT?style=for-the-badge&logo=github&color=blue&labelColor=1a1a1a" alt="GitHub forks"/>
+<img src="https://img.shields.io/github/watchers/AveryMist/JUST-AUDIO-MEDIA-KIT?style=for-the-badge&logo=github&color=green&labelColor=1a1a1a" alt="GitHub watchers"/>
+</p>
 
 </div>
 
-# 🇫🇷 Français
+---
+
+<div id="english">
+
+# 🇬🇧 English Version
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Status-✅_ACTIF-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Platform-📱_Flutter_Multi--OS-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/License-📄_MIT-blue?style=for-the-badge" />
+## 🌟 **About JUST AUDIO MEDIA KIT**
 
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🚀 **Un peu sur moi**
+<!-- Project showcase with enhanced visuals -->
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🎵-Audio%20Plugin-9C27B0?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="Audio"/>
+<br/><b>Advanced Audio</b>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🎧-Media%20Kit-FF5722?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="Media Kit"/>
+<br/><b>Professional Control</b>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/📱-Multi%20Platform-4CAF50?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="Multi Platform"/>
+<br/><b>Cross Platform</b>
+</td>
+</tr>
+</table>
 
-</div>
-
-```python
-class JustAudioMediaKit:
-    def __init__(self):
-        self.nom = "JUST AUDIO MEDIA KIT"
-        self.lieu = "Développée avec passion 🎵"
-        self.bio = "Plugin Flutter qui révolutionne l'audio"
-        self.quand_je_joue_pas = "J'optimise les performances ou configure des codecs"
-        self.truc_actuel = "Intégration media_kit - j'aime bien quand ça marche partout !"
-        self.passion = "Transformer l'expérience audio en magie pure"
-        self.addiction = "Audio haute qualité 🎧 (beaucoup trop)"
-        self.motto = "Si ça joue, c'est déjà ça !"
-
-    def dire_bonjour(self):
-        return f"Salut ! Je suis {self.nom} 🎵"
-
-    def get_status(self):
-        return "En train de jouer de l'audio avec style 🎧🎵"
-
-    def __str__(self):
-        return f"{self.nom} - {self.bio}"
-
-# Instanciation
-moi = JustAudioMediaKit()
-print(moi.dire_bonjour())
+```dart
+class JustAudioMediaKit {
+  final String name = "JUST AUDIO MEDIA KIT";
+  final String type = "Flutter Plugin";
+  final String description = "Advanced Flutter audio plugin integrating media_kit and just_audio";
+  
+  final List<String> features = [
+    "🎵 High-quality audio playback",
+    "🎧 Advanced media_kit + just_audio integration",
+    "📱 Multi-platform support",
+    "⚡ Optimized performance",
+    "🔧 Flexible configuration",
+    "🌟 Simple and powerful API"
+  ];
+  
+  final List<String> platforms = ["Android", "iOS", "Web", "Desktop"];
+  final String status = "🚀 Active Development";
+  
+  String getInfo() {
+    return "I'm $name, a $type that combines the best of media_kit and just_audio!";
+  }
+}
 ```
 
+</div>
+
+## 🚀 **Key Features**
+
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🎵 **Audio & Media**
+<img src="https://img.shields.io/badge/High%20Quality-Audio-9C27B0?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="Audio"/>
+<img src="https://img.shields.io/badge/Media-Kit-FF5722?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="Media Kit"/>
+<img src="https://img.shields.io/badge/Just-Audio-FF6B6B?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="Just Audio"/>
+
+</td>
+<td align="center" width="50%">
+
+### 📱 **Platform & Performance**
+<img src="https://img.shields.io/badge/Multi-Platform-2196F3?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="Platform"/>
+<img src="https://img.shields.io/badge/High-Performance-4CAF50?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="Performance"/>
+<img src="https://img.shields.io/badge/Flexible-API-FF9800?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="API"/>
+
+</td>
+</tr>
+</table>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+## 🛠️ **Technical Stack**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 💻 **Languages**
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=1a1a1a" alt="Dart"/>
+
+</td>
+<td align="center" width="25%">
+
+### 🚀 **Framework**
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1a1a" alt="Flutter"/>
+
+</td>
+<td align="center" width="25%">
+
+### 🎵 **Audio/Media**
+<img src="https://img.shields.io/badge/Media%20Kit-9C27B0?style=for-the-badge&logo=vlcmediaplayer&logoColor=white&labelColor=1a1a1a" alt="Media Kit"/>
+<img src="https://img.shields.io/badge/Just%20Audio-FF5722?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1a1a1a" alt="Just Audio"/>
+
+</td>
+<td align="center" width="25%">
+
+### 📱 **Platforms**
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=1a1a1a" alt="Android"/>
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white&labelColor=1a1a1a" alt="iOS"/>
+<img src="https://img.shields.io/badge/Web-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a1a" alt="Web"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+</div>
+
+---
+
+<div id="français">
+
+# 🇫🇷 Version Française
+
+<div align="center">
+
+## 🌟 **À propos de JUST AUDIO MEDIA KIT**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+```dart
+class JustAudioMediaKit {
+  final String nom = "JUST AUDIO MEDIA KIT";
+  final String type = "Plugin Flutter";
+  final String description = "Plugin Flutter audio avancé intégrant media_kit et just_audio";
+  
+  final List<String> fonctionnalites = [
+    "🎵 Lecture audio haute qualité",
+    "🎧 Intégration avancée media_kit + just_audio",
+    "📱 Support multi-plateforme",
+    "⚡ Performance optimisée",
+    "🔧 Configuration flexible",
+    "🌟 API simple et puissante"
+  ];
+  
+  final List<String> plateformes = ["Android", "iOS", "Web", "Desktop"];
+  final String statut = "🚀 Développement Actif";
+  
+  String getInfo() {
+    return "Je suis $nom, un $type qui combine le meilleur de media_kit et just_audio !";
+  }
+}
+```
 
 </div>
 
@@ -315,158 +460,20 @@ l'écosystème Flutter
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 🇬🇧 English
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Status-✅_ACTIVE-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Platform-📱_Flutter_Multi--OS-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/License-📄_MIT-blue?style=for-the-badge" />
-
-</div>
-
-### 🚀 **About me**
-
-```python
-class JustAudioMediaKit:
-    def __init__(self):
-        self.name = "JUST AUDIO MEDIA KIT"
-        self.location = "Developed with passion 🎵"
-        self.bio = "Flutter plugin that revolutionizes audio"
-        self.when_not_playing = "I optimize performance or configure codecs"
-        self.current_thing = "media_kit integration - I love when it works everywhere!"
-        self.passion = "Transforming audio experience into pure magic"
-        self.addiction = "High quality audio 🎧 (way too much)"
-        self.motto = "If it plays, that's already something!"
-
-    def say_hello(self):
-        return f"Hi! I'm {self.name} 🎵"
-
-    def get_status(self):
-        return "Playing audio with style 🎧🎵"
-
-    def __str__(self):
-        return f"{self.name} - {self.bio}"
-
-# Instantiation
-me = JustAudioMediaKit()
-print(me.say_hello())
-```
-
-## 🎯 **My features**
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-🎵 **Advanced Audio**
-High-quality playback
-
-</td>
-<td width="50%" align="center">
-
-🔧 **media_kit Integration**
-Powerful backend
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-📱 **Multi-platform**
-Android, iOS, Desktop
-
-</td>
-<td width="50%" align="center">
-
-⚡ **High Performance**
-Optimized for speed
-
-</td>
-</tr>
-</table>
-
-## 🛠️ **Technologies used**
-
-<div align="center">
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-
-</div>
-
-## 📞 **Contact**
-
-<table>
-<tr>
-<td align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.gg/GEZCQwczMY)
-
-**AMADEUSE Community**
-
-</td>
-<td align="center">
-
-[![Pub.dev](https://img.shields.io/badge/Pub.dev-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B)](https://pub.dev/packages/just_audio_media_kit)
-
-**Flutter Package**
-
-</td>
-<td align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white&labelColor=121011)](https://github.com/AveryMist/just_audio_media_kit)
-
-**Source Code**
-
-</td>
-</tr>
-</table>
-
-### 💬 **Always up for:**
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-🎵 **Optimizing**
-audio performance
-
-</td>
-<td width="25%" align="center">
-
-💡 **Discussing**
-optimizations
-
-</td>
-<td width="25%" align="center">
-
-🔧 **Configuring**
-advanced setups
-
-</td>
-<td width="25%" align="center">
-
-📦 **Improving**
-Flutter ecosystem
-
-</td>
-</tr>
-</table>
-
 </div>
 
 <div align="center">
 
----
+### 🌟 **"Un bon plugin audio, c'est comme une bonne mélodie... ça reste en tête !"** 🌟
 
-*"Le code est de la poésie écrite pour les machines, mais lue par les humains."*
+![GitHub](https://img.shields.io/badge/Made_with-❤️_by_AveryMyst-FF6B6B?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=AveryMist&color=6366f1&style=for-the-badge&label=Profile+Views)
 
-![Profile Views](https://komarev.com/ghpvc/?username=AveryMist&color=6366F1&style=for-the-badge)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer"/>
+*N'hésite pas à utiliser le package ou à me ping si tu veux discuter audio !* ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer&text=Merci%20d'être%20passé%20!&fontSize=30&fontColor=ffffff&animation=twinkling"/>
 
 </div>
 
