@@ -41,40 +41,40 @@
 ---
 
 <details open>
-<summary><h2>🌟 À propos d’AMADEUSE YTM</h2></summary>
+<summary><h2>🌟 About AMADEUSE YTM</h2></summary>
 
-**AMADEUSE YTM** est une application **desktop (Windows)** qui enveloppe **YouTube Music** avec **Electron + Vite**, en y ajoutant des **tweaks** et un lancement rapide.  
-Objectif : offrir une expérience plus fluide en fenêtre dédiée, avec des patches modulaires.
+**AMADEUSE YTM** is a **Windows desktop app** that wraps **YouTube Music** using **Electron + Vite**, adding quick startup and modular tweaks.
+**Goal:** Deliver a smoother standalone window experience, with plug-and-play feature patches.
 
-```ts
+```
 class AmadeuseYTM {
   name = "AMADEUSE YTM"
   platform = "Windows (Electron)"
   stack = ["TypeScript","Electron","Vite","pnpm"]
   features = [
-    "🎵 Expérience YT Music en desktop",
-    "🔧 Patches modulaires (UI/UX)",
-    "⚡ Démarrage rapide (Vite)",
-    "🧩 Structure claire (patches/, vite-plugins/)"
+    "🎵 Desktop YT Music experience",
+    "🔧 Modular patches (UI/UX)",
+    "⚡ Fast launch (Vite)",
+    "🧩 Clear structure (patches/, vite-plugins/)"
   ]
 }
-````
+```
 
 </details>
 
 <details>
-<summary><h2>🚀 Fonctionnalités</h2></summary>
+<summary><h2>🚀 Features</h2></summary>
 
-* 🖥️ Application **Windows** native (fenêtre dédiée)
-* 🔧 **Tweaks** & patches (répertoires `patches/`, `vite-plugins/`)
-* ⚙️ Config prête pour build : `electron-builder.yml`, `electron.vite.config.mts`
-* 🧪 Base de tests (`tests/`)
-* 📄 **MIT** — projet non-officiel, sans affiliation avec YouTube/Google (respecte leurs CGU)
+* 🖥️ **Windows** desktop app (dedicated window)
+* 🔧 **Tweaks** & patches (folders: `patches/`, `vite-plugins/`)
+* ⚙️ Ready-to-build setup: `electron-builder.yml`, `electron.vite.config.mts`
+* 🧪 Test base (`tests/`)
+* 📄 **MIT license** — unofficial project, not affiliated with YouTube/Google (respects their ToS)
 
 </details>
 
 <details>
-<summary><h2>🛠️ Stack Technique</h2></summary>
+<summary><h2>🛠️ Technical Stack</h2></summary>
 
 <p align="center">
 <img src="https://img.shields.io/badge/TypeScript-b3001b?style=for-the-badge&logo=typescript&logoColor=ffffff&labelColor=161b22"/>
@@ -88,21 +88,21 @@ class AmadeuseYTM {
 <details>
 <summary><h2>📥 Installation & Setup</h2></summary>
 
-### Prérequis
+### Prerequisites
 
 * **Windows 10/11**
 * **Node.js 22.x+**
 * **pnpm**
 
-```bash
-# Cloner
+```
+# Clone
 git clone https://github.com/Lyraxyse/AMADEUSE-YTM.git
 cd AMADEUSE-YTM
 
-# Installer pnpm si besoin
+# Install pnpm if needed
 npm i -g pnpm
 
-# Dépendances
+# Install dependencies
 pnpm install --frozen-lockfile
 
 # Dev (Electron + Vite)
@@ -111,14 +111,14 @@ pnpm dev
 
 ### Build / Production
 
-```bash
-# Build de l'app
+```
+# Build the app
 pnpm build
 
-# Lancer la build
+# Start built app
 pnpm start
 
-# Générer un installeur Windows
+# Generate Windows installer
 pnpm dist:win
 ```
 
@@ -127,36 +127,36 @@ pnpm dist:win
 <details>
 <summary><h2>💻 Usage</h2></summary>
 
-1. `pnpm dev` pour le mode développement
-2. `pnpm start` après build
-3. Paramètres et options dans le menu **Settings** (si dispo)
-4. Profite de YouTube Music en **fenêtre desktop**
+1. `pnpm dev` for development mode
+2. `pnpm start` after build
+3. Adjust options in **Settings** menu (if available)
+4. Enjoy YouTube Music in a dedicated **desktop window**
 
 </details>
 
 <details>
-<summary><h2>🤝 Contribuer</h2></summary>
+<summary><h2>🤝 Contributing</h2></summary>
 
-* Fork
-* `git checkout -b feature/ma-feature`
-* Commits clairs (`feat: ...`, `fix: ...`)
-* PR → on discute !
-
-</details>
-
-<details>
-<summary><h2>📄 Licence</h2></summary>
-
-Sous **MIT** — voir `LICENSE`.
-Projet **non-officiel**. Respecte les **CGU** YouTube/Google.
+* Fork the repo
+* `git checkout -b feature/your-feature`
+* Use meaningful commits (`feat: ...`, `fix: ...`)
+* PR → let's discuss!
 
 </details>
 
 <details>
-<summary><h2>📞 Contact & Communauté</h2></summary>
+<summary><h2>📄 License</h2></summary>
 
-* **GitHub** : [@Lyraxyse](https://github.com/Lyraxyse)
-* **Discord** : [AMADEUSE Community](https://discord.gg/GEZCQwczMY)
+Licensed under **MIT** — see `LICENSE`.
+**Unofficial** project. Compliant with YouTube/Google **Terms of Service**.
+
+</details>
+
+<details>
+<summary><h2>📞 Contact & Community</h2></summary>
+
+* **GitHub**: [@Lyraxyse](https://github.com/Lyraxyse)
+* **Discord**: [AMADEUSE Community](https://discord.gg/GEZCQwczMY)
 
 <p align="center">
 <img src="https://img.shields.io/badge/Made_with-💖_&_☕-b3001b?style=for-the-badge&labelColor=161b22" alt="Made with love"/>
